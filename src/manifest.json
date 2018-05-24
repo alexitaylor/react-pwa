@@ -1,0 +1,13 @@
+{
+  "dir": "ltr",
+  "lang": "en",
+  "name": "React PWA",
+  "scope": "./",
+  "display": "fullscreen",
+  "start_url": "./",
+  "short_name": "react",
+  "theme_color": "white",
+  "description": "simple pwa with react",
+  "orientation": "portrait",
+  "background_color": "white",
+}
